@@ -1,0 +1,17 @@
+{
+  "name": "node-parature",
+  "version": "0.0.1",
+  "description": "Node JS interface for Parature CRM.",
+  "main": "lib/parature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "request-promise": "^3.0.0",
+    "string-template": "^1.0.0",
+    "validate.js": "^0.10.0"
+  }
+}
